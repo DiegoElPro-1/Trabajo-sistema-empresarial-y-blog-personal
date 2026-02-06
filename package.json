@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "blog-personal",
+=======
+  "name": "sistema-empresarial",
+>>>>>>> 31ab4c4f17cc12d9897694cacb47c9f0b700a861
   "private": true,
   "version": "0.0.0",
   "type": "module",
